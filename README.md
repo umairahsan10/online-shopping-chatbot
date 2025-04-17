@@ -31,5 +31,5 @@ This is a simple console-based chatbot written in C that simulates an online sho
 ## 🚀 How to Run
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/online-shopping-chatbot.git
+git clone https://github.com/umairahsan10/online-shopping-chatbot.git
 cd online-shopping-chatbot
